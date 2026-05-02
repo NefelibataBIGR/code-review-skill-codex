@@ -1,0 +1,3 @@
+interface:
+  display_name: "Code Review Codex"
+  short_description: "Structured code review guidance across major languages and frameworks"
