@@ -56,11 +56,11 @@ skill 被加载后，Codex 会优先按需读取 `reference/` 下的文件，而
 
 ```bash
 # macOS / Linux
-git clone https://github.com/awesome-skills/code-review-skill.git \
+git clone https://github.com/NefelibataBIGR/code-review-skill-codex.git \
   ~/.codex/skills/code-review-codex
 
 # Windows PowerShell
-git clone https://github.com/awesome-skills/code-review-skill.git `
+git clone https://github.com/NefelibataBIGR/code-review-skill-codex.git `
   "$env:USERPROFILE\.codex\skills\code-review-codex"
 ```
 

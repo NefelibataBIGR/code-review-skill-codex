@@ -56,11 +56,11 @@ Clone or copy this repository into your Codex skills directory:
 
 ```bash
 # macOS / Linux
-git clone https://github.com/awesome-skills/code-review-skill.git \
+git clone https://github.com/NefelibataBIGR/code-review-skill-codex.git \
   ~/.codex/skills/code-review-codex
 
 # Windows PowerShell
-git clone https://github.com/awesome-skills/code-review-skill.git `
+git clone https://github.com/NefelibataBIGR/code-review-skill-codex.git `
   "$env:USERPROFILE\.codex\skills\code-review-codex"
 ```
 
