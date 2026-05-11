@@ -1,6 +1,6 @@
 [English](./README.md) | [简体中文](./README.zh-CN.md)
 
-# Code Review Codex for Codex
+# Code Review Skill for Codex
 
 Reference: adapted from https://github.com/awesome-skills/code-review-skill
 
