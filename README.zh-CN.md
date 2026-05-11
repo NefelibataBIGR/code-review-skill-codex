@@ -1,6 +1,6 @@
 [English](./README.md) | [简体中文](./README.zh-CN.md)
 
-# 适用于 Codex 的 Code Review Codex
+# 适用于 Codex 的 Code Review Skill
 
 参考来源：https://github.com/awesome-skills/code-review-skill
 
